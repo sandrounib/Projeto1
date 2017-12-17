@@ -7,9 +7,11 @@ namespace Projeto2
         static void Main(string[] args)
         {
            int a = 2;
-           Console.WriteLine(a);
-           FazerCafe("caramelo") ;
-           FazerCafe("melao");
+           
+           Console.WriteLine(a);// Imprimi o valor da vaiável inteira a.
+           
+           FazerCafe("caramelo"); // chama o método FazerCafé,passa para o método o argumento caramelo e imprimi
+           FazerCafe("melao"); // chama o método FazerCafé,passa para o método o argumento melao e imprimi
         }
 
 

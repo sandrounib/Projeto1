@@ -18,3 +18,13 @@ c:\Users\FIC\Desktop\Projeto2\obj\Debug\netcoreapp2.0\ConsoleCadastro.AssemblyIn
 c:\Users\FIC\Desktop\Projeto2\obj\Debug\netcoreapp2.0\ConsoleCadastro.AssemblyInfo.cs
 c:\Users\FIC\Desktop\Projeto2\obj\Debug\netcoreapp2.0\ConsoleCadastro.dll
 c:\Users\FIC\Desktop\Projeto2\obj\Debug\netcoreapp2.0\ConsoleCadastro.pdb
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\bin\Debug\netcoreapp2.0\ConsoleCadastro.deps.json
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\bin\Debug\netcoreapp2.0\ConsoleCadastro.runtimeconfig.json
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\bin\Debug\netcoreapp2.0\ConsoleCadastro.runtimeconfig.dev.json
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\bin\Debug\netcoreapp2.0\ConsoleCadastro.dll
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\bin\Debug\netcoreapp2.0\ConsoleCadastro.pdb
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\obj\Debug\netcoreapp2.0\ConsoleCadastro.csproj.CoreCompileInputs.cache
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\obj\Debug\netcoreapp2.0\ConsoleCadastro.AssemblyInfoInputs.cache
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\obj\Debug\netcoreapp2.0\ConsoleCadastro.AssemblyInfo.cs
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\obj\Debug\netcoreapp2.0\ConsoleCadastro.dll
+c:\Users\Sandro Reis\Desktop\projetos\Projeto1\obj\Debug\netcoreapp2.0\ConsoleCadastro.pdb
